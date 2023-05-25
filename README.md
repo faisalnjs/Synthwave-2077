@@ -47,4 +47,4 @@ Although I am not a theme developer, I fell in love with Cyberpunk 2077's style 
 
 If you enjoy the theme, please give it a ⭐️, and check out my other extension for VS Code, [CommentsAI](https://github.com/SBigz/CommentsAI) for automatic code commenting with advanced AI capabilities!
 
-Disclaimer - This theme, Synthwave 2077, was created by SBigz (CodeSasha) and this is just a fork of his repo [SBigz/Synthwave-2077](https://github.com/SBigz/Synthwave-2077) made due to it being incompatible with the latest VSCode version. I loved how it looked at first sight, and was heartbroken when I saw that I couldn't use it. CodeSasha, if you see this, please email me so I can merge the repos and delete mine. Thanks for your hard work!
+Disclaimer - This theme, Synthwave 2077, was created by SBigz (CodeSasha) and this is just a fork of his repo [SBigz/Synthwave-2077](https://github.com/SBigz/Synthwave-2077) made due to it being incompatible with my VSCode version. I loved how it looked at first sight, and was heartbroken when I saw that I couldn't use it. CodeSasha, if you see this, please email me so I can merge the repos and delete mine. Thanks for your hard work!
