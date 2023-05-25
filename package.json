@@ -3,7 +3,7 @@
   "displayName": "Synthwave 2077",
   "description": "When Cyberpunk 2077 meets Synthwave '84, by CodeSacha",
   "version": "0.0.1",
-  "icon": "https://github.com/SBigz/Synthwave-2077/raw/main/icon.png",
+  "icon": "icon.png",
   "publisher": "CodeSacha",
   "engines": {
     "vscode": "^1.78.0"
