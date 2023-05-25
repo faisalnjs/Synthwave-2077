@@ -4,7 +4,7 @@
   "description": "When Cyberpunk 2077 meets Synthwave '84, by CodeSacha",
   "version": "0.0.1",
   "icon": "icon.png",
-  "publisher": "CodeSacha",
+  "publisher": "DangoWeb",
   "engines": {
     "vscode": "^1.78.0"
   },
