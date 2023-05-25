@@ -1,0 +1,21 @@
+{
+  "name": "synthwave-2077",
+  "displayName": "synthwave-2077",
+  "description": "When Cyberpunk 2077 meets Synthwave '84, by CodeSacha",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Synthwave 2077",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Synthwave 2077-color-theme.json"
+      }
+    ]
+  }
+}
