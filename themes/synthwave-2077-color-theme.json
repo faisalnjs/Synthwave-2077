@@ -1,5 +1,6 @@
 {
 	"name": "Synthwave 2077",
+	"type": "dark",
 	"colors": {
 		"activityBar.background": "#101116",
 		"foreground": "#00d4b1",

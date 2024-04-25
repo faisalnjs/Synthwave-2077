@@ -1,9 +1,10 @@
 {
   "name": "synthwave-2077",
   "displayName": "Synthwave 2077",
-  "description": "When Cyberpunk 2077 meets Synthwave '84, by CodeSacha",
-  "version": "0.0.2",
+  "description": "Cyberpunk 2077 x Synthwave '84 ~ Faisal N",
+  "version": "1.0.0",
   "icon": "icon.png",
+  "author": "Faisal N, CodeSasha, Robb Owen, et. al.",
   "publisher": "DangoWeb",
   "engines": {
     "vscode": "^1.74.3"
@@ -11,16 +12,40 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "synthwave",
+    "cyberpunk",
+    "retrowave",
+    "outrun",
+    "neon",
+    "vaporwave",
+    "dark",
+    "theme",
+    "color",
+    "syntax",
+    "highlight",
+    "editor",
+    "code",
+    "vscode",
+    "visual",
+    "studio",
+    "text",
+    "editor",
+    "extension",
+    "extensionpack",
+    "extension-pack",
+    "extensionpacks"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/OGFaisalN/Synthwave-2077"
+    "url": "https://github.com/faisalnjs/Synthwave-2077"
   },
   "contributes": {
     "themes": [
       {
         "label": "Synthwave 2077",
         "uiTheme": "vs-dark",
-        "path": "./themes/Synthwave 2077-color-theme.json"
+        "path": "./themes/synthwave-2077-color-theme.json"
       }
     ]
   }
