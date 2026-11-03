@@ -1,25 +1,40 @@
 .mtk6 {
-	text-shadow: 0 0 2px #100c0f, 0 0 5px #07dcdc33, 0 0 10px rgba(255, 255, 255, 0.2);
+	text-shadow:
+		0 0 2px #100c0f,
+		0 0 5px #07dcdc33,
+		0 0 10px rgba(255, 255, 255, 0.2);
 }
 
 .mtk10 {
-	text-shadow: 0 0 2px #001716, 0 0 3px #03edf975, 0 0 5px #03edf975,
+	text-shadow:
+		0 0 2px #001716,
+		0 0 3px #03edf975,
+		0 0 5px #03edf975,
 		0 0 8px #03edf975;
 }
 
 .mtk7,
 .mtk9 {
-	text-shadow: 0 0 2px #000, 0 0 10px #1ffcfc75, 0 0 5px #1ffcba75,
+	text-shadow:
+		0 0 2px #000,
+		0 0 10px #1ffcfc75,
+		0 0 5px #1ffcba75,
 		0 0 25px #1ffcba75;
 }
 
 .mtk11 {
-	text-shadow: 0 0 2px #100c0f, 0 0 10px #257c5575, 0 0 35px #21272475;
+	text-shadow:
+		0 0 2px #100c0f,
+		0 0 10px #257c5575,
+		0 0 35px #21272475;
 }
 
 .mtk8,
 .mtk14 {
-	text-shadow: 0 0 2px #393a33, 0 0 8px #05f3f375, 0 0 2px #05f3d375;
+	text-shadow:
+		0 0 2px #393a33,
+		0 0 8px #05f3f375,
+		0 0 2px #05f3d375;
 }
 
 .monaco-editor .margin,

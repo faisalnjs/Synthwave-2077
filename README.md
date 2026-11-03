@@ -27,15 +27,17 @@ These screenshots are from a previous version of the theme, modifications were m
 
 ## Installation 🔌
 
-1. Open the Marketplace in Visual Studio Code and search for "Synthwave 2077."
-2. Click the "Install" button to add the theme to your VSCode.
-3. Once the installation is complete, click "Reload" to refresh your editor.
-4. To activate the theme, go to "File" > "Preferences" > "Color Theme," and select "Synthwave 2077."
-5. To enable the Neon of "Synthwave 2077," check the instructions below.
-6. Each time you enable or disable the custom styles, VSCode will reload to apply the changes.
-7. To customize your terminal theme, install [ohmyzsh!](https://github.com/ohmyzsh/ohmyzsh) and choose your desired theme!
+1. Open the **Marketplace** in Visual Studio Code and search for **"Synthwave 2077."**
+2. Click the **"Install"** button to add the theme to your VSCode.
+3. Once the installation is complete, click **"Reload"** to refresh your editor.
+4. To activate the theme, go to **"File" > "Preferences" > "Color Theme"**, and select **"Synthwave 2077."**
+5. To enable the Neon of **"Synthwave 2077"**, check the instructions below.
 
 ### Neon Glow Effect 🌟
+
+The [Neon Glow companion](neon-glow/) adds a toggle and adjustable brightness for the editor glow on VS Code 1.100 or later.
+
+### Neon Glow Effect 🌟 (Old)
 
 VS code doesn't natively support text effects and as a result, the glow is experimental. It's likely to be buggy and, whilst it looks rad, it isn't intended for extended use. 
 

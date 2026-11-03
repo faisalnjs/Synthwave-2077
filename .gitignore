@@ -1,2 +1,8 @@
 node_modules
 *.vsix
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+out/
+dist/

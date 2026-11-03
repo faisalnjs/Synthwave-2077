@@ -1,0 +1,59 @@
+{
+	"name": "synthwave-2077-neon-glow",
+	"displayName": "Synthwave 2077 Neon Glow",
+	"description": "Optional, adjustable editor glow for the Synthwave 2077 theme.",
+	"version": "0.1.0",
+	"publisher": "CodeSacha",
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/faisalnjs/Synthwave-2077.git",
+		"directory": "neon-glow"
+	},
+	"engines": {
+		"vscode": "^1.100.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"extensionDependencies": [
+		"CodeSacha.synthwave-2077"
+	],
+	"activationEvents": [
+		"onStartupFinished"
+	],
+	"main": "./extension.js",
+	"capabilities": {
+		"untrustedWorkspaces": {
+			"supported": true
+		}
+	},
+	"contributes": {
+		"commands": [
+			{
+				"command": "synthwave2077.toggleGlow",
+				"title": "Toggle Neon Glow",
+				"category": "Synthwave 2077"
+			}
+		],
+		"configuration": {
+			"title": "Synthwave 2077 Neon Glow",
+			"properties": {
+				"synthwave2077.glow.enabled": {
+					"type": "boolean",
+					"default": false,
+					"scope": "application",
+					"description": "Enable the optional text glow while Synthwave 2077 is active."
+				},
+				"synthwave2077.glow.brightness": {
+					"type": "number",
+					"default": 0.45,
+					"minimum": 0,
+					"maximum": 1,
+					"scope": "application",
+					"description": "Opacity of the text glow, from 0 (invisible) to 1 (full strength)."
+				}
+			}
+		}
+	}
+}
