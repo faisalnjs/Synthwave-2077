@@ -2,8 +2,8 @@ name: VSCode Extension Marketplace
 
 on:
   push:
-    branches: ['main']
-  workflow_dispatch:
+    tags:
+      - '*'
 
 permissions:
   contents: read
