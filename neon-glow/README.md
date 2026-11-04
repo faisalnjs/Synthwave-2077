@@ -1,5 +1,7 @@
 # Synthwave 2077 Neon Glow
 
+**Warning:** Activating the Neon Glow extension may add lag.
+
 An optional text glow for the [Synthwave 2077 color theme](https://marketplace.visualstudio.com/items?itemName=DangoWeb.synthwave-2077). Requires VS Code 1.100 or later.
 
 1. Open the **Marketplace** in Visual Studio Code and search for **"Synthwave 2077 Neon Glow."**

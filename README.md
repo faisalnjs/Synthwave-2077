@@ -34,6 +34,8 @@ These screenshots are from a previous version of the theme, modifications were m
 
 ### Neon Glow Effect 🌟
 
+**Warning:** Activating the Neon Glow extension may add lag.
+
 Install the [Synthwave 2077 Neon Glow companion extension](https://marketplace.visualstudio.com/items?itemName=DangoWeb.synthwave-2077-neon-glow), then activate the neon glow by going to **"Help" > "Show All Commands"** and searching for **"Toggle Neon Glow."** You can also use the keyboard shortcut **Ctrl+Shift+P** (Windows/Linux) or **Cmd+Shift+P** (macOS) to open the command palette and search for **"Toggle Neon Glow."** Requires VS Code 1.100 or later.
 
 ## Disclaimer 👀

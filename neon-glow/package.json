@@ -2,7 +2,7 @@
 	"name": "synthwave-2077-neon-glow",
 	"displayName": "Synthwave 2077 Neon Glow",
 	"description": "Synthwave 2077 x Neon",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"icon": "icon.png",
 	"author": "Faisal N, CodeSasha, Robb Owen, et. al.",
 	"publisher": "DangoWeb",
@@ -80,9 +80,6 @@
 	},
 	"extensionDependencies": [
 		"DangoWeb.synthwave-2077"
-	],
-	"activationEvents": [
-		"onStartupFinished"
 	],
 	"main": "./extension.js",
 	"capabilities": {
