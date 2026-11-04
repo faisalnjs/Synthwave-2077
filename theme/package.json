@@ -6,6 +6,7 @@
 	"icon": "icon.png",
 	"author": "Faisal N, CodeSasha, Robb Owen, et. al.",
 	"publisher": "DangoWeb",
+	"license": "GNU General Public License v3.0",
 	"engines": {
 		"vscode": "^1.60.0"
 	},
@@ -38,7 +39,8 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/faisalnjs/Synthwave-2077"
+		"url": "https://github.com/faisalnjs/Synthwave-2077",
+		"directory": "theme"
 	},
 	"contributes": {
 		"themes": [

@@ -10,15 +10,28 @@ permissions:
   id-token: write
 
 jobs:
-  publish:
+  theme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      id-token: write
+    defaults:
+      run:
+        working-directory: theme
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 24
+      - run: npm ci
+      - run: npx @vscode/vsce publish --oidc
+
+  neon-glow:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: neon-glow
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
       - run: npm ci
       - run: npx @vscode/vsce publish --oidc
